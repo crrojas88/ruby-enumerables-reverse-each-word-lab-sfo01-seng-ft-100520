@@ -1,4 +1,4 @@
-#require 'pry'
+require 'pry'
 
 def reverse_each_word(sentence)
   sentence_array = []
@@ -12,4 +12,4 @@ def reverse_each_word(sentence)
 
 end
 
- #binding.pry
+ binding.pry
