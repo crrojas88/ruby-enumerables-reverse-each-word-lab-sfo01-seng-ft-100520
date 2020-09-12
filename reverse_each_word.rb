@@ -1,5 +1,5 @@
 #require 'pry'
-sentence = "Hello, my name is Slim Shady"
+eminem = "Hello, my name is Slim Shady"
 
 def reverse_each_word(sentence)
   sentence_array = []
@@ -13,5 +13,7 @@ def reverse_each_word(sentence)
 reverse_sentence = sentence_array.join(" ")
 reverse_sentence
 end
+
+reverse_each_word(eminem)
 
  #binding.pry
