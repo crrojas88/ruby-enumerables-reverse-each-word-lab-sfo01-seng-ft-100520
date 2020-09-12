@@ -1,4 +1,4 @@
-#require 'pry'
+require 'pry'
 #eminem = "Hello, my name is Slim Shady"
 
 def reverse_each_word(sentence)
@@ -16,4 +16,4 @@ end
 
 #reverse_each_word(eminem)
 
- #binding.pry
+ binding.pry
