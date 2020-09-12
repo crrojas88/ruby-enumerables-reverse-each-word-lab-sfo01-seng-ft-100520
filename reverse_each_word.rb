@@ -1,7 +1,7 @@
 #require 'pry'
 
 def reverse_each_word(sentence)
-  reverse_array = []
+  sentence_array = []
   split_sentence = sentence.split
   
   split_sentence.each do |element|
