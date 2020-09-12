@@ -1,5 +1,5 @@
 #require 'pry'
-
+sentence = "Hello, my name is Slim Shady"
 
 def reverse_each_word(sentence)
   sentence_array = []
