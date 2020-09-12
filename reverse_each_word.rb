@@ -1,5 +1,7 @@
 require 'pry'
 
+sentence = "Hello, my name is Dooks"
+
 def reverse_each_word(sentence)
   sentence_array = []
   split_sentence = sentence.split
