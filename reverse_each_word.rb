@@ -1,4 +1,4 @@
-
+require 'pry'
 
 def reverse_each_word(string)
 
@@ -6,5 +6,5 @@ def reverse_each_word(string)
     
     puts reverse_each_word
     end
-
+binding.pry
 end
