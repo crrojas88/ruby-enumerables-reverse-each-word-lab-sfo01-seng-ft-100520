@@ -9,7 +9,7 @@ def reverse_each_word(sentence)
     reverse_array << element.reverse!.join("")
     
     end
-sentence_array
+
 end
 
  #binding.pry
