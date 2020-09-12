@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 
 sentence = "Hello, my name is Dooks"
 
@@ -15,4 +15,4 @@ reverse_sentence = sentence_array.join
 reverse_sentence
 end
 
- binding.pry
+ #binding.pry
